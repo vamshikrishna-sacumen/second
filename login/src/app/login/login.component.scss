@@ -1,0 +1,41 @@
+form{
+    background-color:#ffffffd2;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    text-align: center;
+    height: auto;
+    width: 58%;
+    align-content: center;
+}
+
+input{
+    border-radius: 6px;
+    height: 25px;
+    border: none;
+    background-color: rgb(224, 232, 248); 
+    margin: 10px; 
+}
+button{
+    background-color:rgb(31, 34, 192);
+    width: 140px;
+    height: 40px;
+    margin: 20px;
+    outline: none;
+    cursor: pointer;
+    color: antiquewhite;
+    font-weight: 700;
+}
+.main{
+    display: flex;
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+body {
+    display:flow-root;
+    margin: 20px;
+    background-color: blue;
+}
+
